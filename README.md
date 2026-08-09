@@ -2,7 +2,7 @@
 
 **Autor:** Gauna Rita Carolina 
 **Curso:** Herramientas básicas para el Análisis de Datos  
-**Fecha:** 8/8/2026
+**Fecha:** 12/8/2026
 
 ## Objetivo del proyecto
 Este proyecto analiza la evolución del catálogo de Netflix a través del tiempo, explorando la distribución de tipos de contenido (películas vs. series), los géneros más frecuentes, los países con mayor producción y la tendencia de estrenos por año.
